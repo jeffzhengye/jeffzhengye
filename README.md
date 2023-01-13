@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeffzhengye
 - 👀 I’m interested in coding and doing research in NLP and vision. 
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on full stack solution for deep learning NLP and vision applications
+- 💞️ I’m looking forward to collaborating on full stack solution for deep learning NLP and vision applications
 - 📫 How to reach me: 3420661@qq.com
 
 <!---
